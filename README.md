@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Panderz!!
 - 🌱 Currently majoring in CS + Design!
 - 📫 DetectivePanderz@gmail.com
+- 🎨 panderz.net (WIP)
 - 😄 Pronouns: He/Him
 
 <!---
