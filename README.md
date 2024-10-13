@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Panderz12
-- 🌱 I’m currently studying Computer Science and Graphic Design!
-- 📫 Twitter: @Panderz12_ 
+- 👋 Hi, I’m Panderz!!
+- 🌱 Currently majoring in CS + Design!
+- 📫 DetectivePanderz@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
